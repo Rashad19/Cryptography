@@ -13,6 +13,7 @@ The formula to calculate I.C is shown below:
 - N is the total length of the cryptotext
 
 ![Dark](https://latex.codecogs.com/svg.image?\mathbf{\color{white}&space;I.C&space;=\frac{\sum_{i=1}^{k}&space;f_{i}(f_{i}-1)}{N(N-1)}#gh-dark-mode-only)
+
 ![light](https://latex.codecogs.com/svg.image?\mathbf{\color{black}&space;I.C&space;=\frac{\sum_{i=1}^{k}&space;f_{i}(f_{i}-1)}{N(N-1)}#gh-light-mode-only)
 
 
