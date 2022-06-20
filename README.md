@@ -12,8 +12,13 @@ The formula to calculate I.C is shown below:
 - where f_i is the absolute frequency of each letter of the alphabet
 - N is the total length of the cryptotext
 
+<span style = "color:black">
 
-<img src="https://latex.codecogs.com/svg.image?\color{White}&space;I.C&space;=\frac{\sum_{i=1}^{k}&space;f_{i}(f_{i}-1)}{N(N-1)}" title="https://latex.codecogs.com/svg.image?\color{White} I.C =\frac{\sum_{i=1}^{k} f_{i}(f_{i}-1)}{N(N-1)}" />
+
+<img src="https://latex.codecogs.com/svg.image?\mathbf{\color{white}&space;I.C&space;=\frac{\sum_{i=1}^{k}&space;f_{i}(f_{i}-1)}{N(N-1)}" title="https://latex.codecogs.com/svg.image?\mathbf{\color{white} I.C =\frac{\sum_{i=1}^{k} f_{i}(f_{i}-1)}{N(N-1)}" />
+
+
+</span>
 
 
 
