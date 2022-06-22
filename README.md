@@ -11,9 +11,9 @@ The formula to calculate I.C is shown below:
 
 - where f_i is the absolute frequency of each letter of the alphabet
 - N is the total length of the cryptotext
+- k is the number letters in the alphabet in question.
 
-![Dark](https://latex.codecogs.com/svg.image?\mathbf{\color{white}&space;I.C&space;=\frac{\sum_{i=1}^{k}&space;f_{i}(f_{i}-1)}{N(N-1)}#gh-dark-mode-only)
-![light](https://latex.codecogs.com/svg.image?\mathbf{\color{black}&space;I.C&space;=\frac{\sum_{i=1}^{k}&space;f_{i}(f_{i}-1)}{N(N-1)}#gh-light-mode-only)
+$$\large I.C = \frac{\sum\limits^{k}_{i=0} f_i(f_i - 1)}{N(N-1)}$$
 
 We want to generate sequences of cryptotext letters which were encrypted by the same ki in key = [k1, k2, ...., kn] of length n.
 
