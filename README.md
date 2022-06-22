@@ -21,6 +21,15 @@ for key lengths (n) =
 
 1: We calculate I.C value for 1 sequence (The Whole cryptotext)
 
+2: We want to 2 sequences whith letters encrypted by the same ki and we calculate the average I.C value between the two
+
+.
+.
+.
+.
+
+n: We want to 2 sequences with letters encrypted by the same ki and we calculate the average I.C value between the two
+
 ### Frequency Analysis
 
 `FreqAnalysis.py` performs a frequency attack on the Shift and multiplicative cipher.
