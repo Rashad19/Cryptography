@@ -1,7 +1,12 @@
 """
 We Perform an Index of Coincidence test on the
-Vignere Cipher, this code is mainly to calulate the
+Vigenere Cipher, this code is mainly to calulate the
 Index of Coincidence for different key lengths
+
+
+CommandLine arguments (inorder): crypto_text file, 5 key lengths to test.
+
+Total CLAs = 6
 
 @author: Rashad
 
@@ -17,6 +22,8 @@ import sys
 alpha = list(string.ascii_lowercase)
 
 
+# returns the sequences of letters encrypted by the same key
+# this is crucial since I.C is calculated on them.
 def getSequence(text, keylength):
 
     sequences = []
