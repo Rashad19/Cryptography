@@ -15,20 +15,20 @@ The formula to calculate I.C is shown below:
 
 $$\large I.C = \frac{\sum\limits^{k}_{i=0} f_i(f_i - 1)}{N(N-1)}$$
 
-We want to generate sequences of cryptotext letters which were encrypted by the same ki in key = [k1, k2, ...., kn] of length n.
+We want to generate sequences of cryptotext letters which were encrypted by the same $k_i$ in key = [$k_1$,....,$k_n$] of length n.
 
 for key lengths (n) = 
 
 1: We calculate I.C value for 1 sequence (The Whole cryptotext)
 
-2: We want to 2 sequences whith letters encrypted by the same ki and we calculate the average I.C value between the two
+2: We want to 2 sequences with letters encrypted by the same $k_i$ and we calculate the average I.C value between the two
 
 .
 .
 .
 .
 
-n: We want to n sequences with letters encrypted by the same ki and we calculate the average I.C value between them
+n: We want to n sequences with letters encrypted by the same $k_i$ and we calculate the average I.C value between them
 
 ### Frequency Analysis
 
