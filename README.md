@@ -28,7 +28,7 @@ for key lengths (n) =
 .
 .
 
-n: We want to 2 sequences with letters encrypted by the same ki and we calculate the average I.C value between the two
+n: We want to n sequences with letters encrypted by the same ki and we calculate the average I.C value between them
 
 ### Frequency Analysis
 
